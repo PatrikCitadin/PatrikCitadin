@@ -12,4 +12,10 @@
 </div>
     Estou aprendendo:
     <img width="60" height="50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    
+<div>
+<a href="https://github.com/PatrikCitadin">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikCitadin&layout=compact&langs_count=7&theme=prussian"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PatrikCitadin&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+</div>
           
